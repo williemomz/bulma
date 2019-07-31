@@ -1,6 +1,6 @@
 body {
     font-family: 'Product Sans', sans-serif;
-    background-color: #ffffff;
+    background: #ffffff;
 }
 
 header {
@@ -70,11 +70,6 @@ header .navbar-menu a:hover:after {
 }
 .module:nth-child(even) {
     margin-right: 0;
-}
-
-body {
-    background: #ffffff;
-    padding: 30px;
 }
 
 .come-in {
